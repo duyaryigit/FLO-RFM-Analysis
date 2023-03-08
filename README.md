@@ -19,7 +19,7 @@
 - The dataset consists of information obtained from the past shopping behaviors of customers who made their last purchases as OmniChannel (both online and offline shopper) in 2020 - 2021.
 
 - **master_id :** Unique client number
-- **order_channel :** Which channel of the shopping platform is used (Android, ios, Desktop, Mobile, Offline)
+- **order_channel :** Which channel of the shopping platform is used (Android, IOS, Desktop, Mobile, Offline)
 - **last_order_channel :** The channel where the last purchase was made
 - **first_order_date :** The date of the customer's first purchase
 - **last_order_date :** The date of the last purchase made by the customer
