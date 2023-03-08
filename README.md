@@ -30,3 +30,7 @@
 - **customer_value_total_ever_offline :** The total price paid by the customer for offline purchases
 - **customer_value_total_ever_online :** The total price paid by the customer for their online shopping
 - **interested_in_categories_12 :** List of categories the customer has purchased from in the last 12 months
+
+---
+
+The dataset is not shared because it's exclusive to Miuul Data Science & Machine Learning Bootcamp.
