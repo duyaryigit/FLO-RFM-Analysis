@@ -31,6 +31,11 @@
 - **customer_value_total_ever_online :** The total price paid by the customer for their online shopping
 - **interested_in_categories_12 :** List of categories the customer has purchased from in the last 12 months
 
+### seg_map:
+
+<p align="center">
+  <img src="https://github.com/duyaryigit/FLO-RFM-Analysis/blob/main/segments.png?raw=true" alt="RFM Segmentation"/>
+</p>
 ---
 
 The dataset is not shared because it's exclusive to Miuul Data Science & Machine Learning Bootcamp.
