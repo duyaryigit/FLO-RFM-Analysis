@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://github.com/duyaryigit/FLO-RFM-Analysis/blob/main/segments.png?raw=true" alt="RFM Segmentation"/>
 </p>
+
 ---
 
 The dataset is not shared because it's exclusive to Miuul Data Science & Machine Learning Bootcamp.
