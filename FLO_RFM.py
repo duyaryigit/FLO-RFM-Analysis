@@ -43,7 +43,7 @@ df_ = pd.read_csv("CRM-RFM/CASE/FLO-RFM/flo_data_20k.csv")
 df = df_.copy()
 df.head()
 
-# I'm defining a function to get a first look at the data.
+# Define a function to get a first look at the data.
 
 def check_df(dataframe, head=5):
     print("##################### Shape #####################")
