@@ -31,7 +31,7 @@
 |**order_num_total_ever_online :**| Total number of purchases made by the customer online      |                                
 |**order_num_total_ever_offline :**| Total number of purchases made by the customer offline                |
 |**customer_value_total_ever_offline :** | The total price paid by the customer for offline purchases |
-|**customer_value_total_ever_online :**|The total price paid by the customer for their online shopping|
+|**customer_value_total_ever_online :** |The total price paid by the customer for their online shopping |
 |**interested_in_categories_12 :**| List of categories the customer has purchased from in the last 12 months |
 
 ### seg_map:
